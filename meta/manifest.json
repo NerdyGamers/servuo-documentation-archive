@@ -56,7 +56,7 @@
   { "slug": "Champion-System", "title": "Champion System", "category": "advanced", "status": "done" },
   { "slug": "Gump-Construction-Patterns", "title": "Gump Construction Patterns", "category": "advanced", "status": "done" },
   { "slug": "Client-Server-Geometry", "title": "Client-Server Geometry", "category": "advanced", "status": "done" },
-  { "slug": "Custom-Animation-Integration", "title": "Custom Animation Integration", "category": "advanced", "status": "missing" },
+  { "slug": "Custom-Animation-Integration", "title": "Custom Animation Integration", "category": "advanced", "status": "done" },
   { "slug": "Global-Market-System", "title": "Global Market System", "category": "advanced", "status": "missing" },
   { "slug": "House-Construction-Mechanics", "title": "House Construction Mechanics", "category": "advanced", "status": "missing" },
   { "slug": "Advanced-Resource-Harvesting", "title": "Advanced Resource Harvesting", "category": "advanced", "status": "missing" },
